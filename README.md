@@ -51,6 +51,8 @@ the development and deployment of production AI.
 [google.com](www.google.com/README.md)
 [google.com](google.com)
 [google.com](google.com/README.md)
+[google.com](http://google.com)
+[google.com](https://google.com/README.md)
 
 Major features include:
 
