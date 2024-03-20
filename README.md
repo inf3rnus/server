@@ -47,6 +47,9 @@ batched, ensembles and audio/video streaming. Triton inference Server is part of
 a software platform that accelerates the data science pipeline and streamlines
 the development and deployment of production AI.
 
+[google.com](www.google.com)
+[google.com](www.google.com/README.md)
+
 Major features include:
 
 - [Supports multiple deep learning
